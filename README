@@ -1,5 +1,13 @@
-Rename File Extension
-A C# application tool for renaming files extension.
+Rename File Extension - A C# application tool for renaming files extension.
 
+
+Description:
+
+I usually develop application on Mac OS, but most of my client are using Windows.
+When my clients sent me a bunch of images, audio or video files, they didn't realize that there files extension are inconsistent.(e.g. JPG, Jpg , MP3, mp3). 
+
+It's ok for me to make my application support different cases, but I want to keep my app fast and dealing with string conversion isn't something that it should spend time on.
+ 
+This tool make my life easier. :)
 
 Created by C# Visual Studio 2005 Express Edition
